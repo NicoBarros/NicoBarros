@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hola, soy Nico :v
 
-<!--
-**NicoBarros/NicoBarros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de programación apasionado por el desarrollo web y backend.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologías
+![Python](https://skillicons.dev/icons?i=python,django,html,css,js,git)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Lo que estoy haciendo
+- Desarrollando un sistema de control de inventario con IA incorporada
+- Instagram: [@nicopb._](https://instagram.com/nicopb._)
+
+## Estadísticas
+![Stats](https://github-readme-stats.vercel.app/api?username=NicoBarros&show_icons=true&theme=radical)
