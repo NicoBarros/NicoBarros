@@ -25,8 +25,6 @@
 ## Lo que estoy haciendo
 
 - Desarrollando mi proyecto de título: un sistema de control de inventario con IA
-- Aprendiendo Front End y buenas prácticas de código
-
 ---
 
 <div align="center">
