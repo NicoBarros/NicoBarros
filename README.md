@@ -21,7 +21,6 @@
 ## Proyectos
 
 - **[Proyecto-de-Titulo](https://github.com/NicoBarros/Proyecto-de-Titulo)**: sistema de control de inventario con IA incorporada (Python / Django)
-- **[SistemaInv](https://github.com/NicoBarros/SistemaInv)**: primer sistema de control de inventario en Django
 
 ## Lo que estoy haciendo
 
