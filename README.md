@@ -10,4 +10,4 @@ Estudiante de programación apasionado por el desarrollo web y backend.
 - Instagram: [@nicopb._](https://instagram.com/nicopb._)
 
 ## Estadísticas
-![Stats](https://github-readme-stats.vercel.app/api?username=NicoBarros&show_icons=true&theme=radical)
+![Stats](https://github-readme-streak-stats.herokuapp.com/?user=NicoBarros&theme=radical)
